@@ -1,4 +1,17 @@
 Swing pricing tab
 ​
-The ​Swing pricing​ tab lets you define the settings for swing pricing. Click ​Apply swing pricing​​ and fill in the fields.
+The ​Swing pricing​ tab lets you define settings for swing pricing. Click ​Apply swing pricing​​ and fill in the fields.
 ​
+​
+Official NAV
+​
+​
+A setting to choose how swing adjustment is used in your fund's NAV calculation. Choose one of the options:
+​
+​
+​
+​​Swung NAV​​ - Swing adjustment is included in official NAV. The logic of handling swing adjustment is shown in the table.
+​
+​
+​
+​​Unwsung NAV​​ – Swing adjustment is not included in official NAV. The logic of handling swing adjustment is shown in the table.
